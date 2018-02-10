@@ -38,6 +38,9 @@ body {
   background-image: url("Portal.png"); /*background color to blue*/
   margin-bottom: 0; /*no bottom margin*/
 
+    background-repeat: no-repeat;
+    background-position: center;
+    
   display: flex;
   flex-direction: column;
 }
