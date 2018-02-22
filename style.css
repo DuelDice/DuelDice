@@ -1,6 +1,6 @@
 body {
   font-family: 'Raleway', sans-serif;
-  background: rgba(242, 242, 242, .6);
+  background: rgba(222, 222, 222, 100);
   margin: 0;
 }
 
@@ -59,7 +59,7 @@ body {
   font-size: 2em;
   color: white;
   text-align: center;
-  padding-top: 315px;
+  padding-top: 215px;
 }
 
 .jumbotron-text3 {
@@ -179,6 +179,7 @@ h2 {
 .content-body {
   line-height: 1.5;
   color: rgba(0,0,0,.75);
+      padding-top: 215px;
 }
 
 /*EDUCATION*/
