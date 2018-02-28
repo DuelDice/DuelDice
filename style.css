@@ -40,8 +40,8 @@ body {
 
     background-position: center;
     
-  display: flex: .5;
-  flex-direction: row;
+  display: flex;
+  flex-direction: initial;
 }
 
 .jumbotron-text {
