@@ -39,9 +39,10 @@ body {
   margin-bottom: 100; /*no bottom margin*/
 
     background-position: center;
+    background-repeat: no-repeat;
     
   display: flex;
-  flex-direction: initial;
+  flex-direction: column;
 }
 
 .jumbotron-text {
